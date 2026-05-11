@@ -1,0 +1,6 @@
+a=2
+b=13
+c=2+13
+print(a)
+print(b)
+print(c)
